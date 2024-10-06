@@ -15,3 +15,5 @@ python 3.12.6
 
 # python -m spacy download de_core_news_sm
 # python process_document.py
+
+# python -m uvicorn app:app --reload
