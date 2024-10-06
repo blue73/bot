@@ -50,7 +50,7 @@ bot/
    python -m spacy download de_core_news_sm
    ```
 
-5. Run the data processing scripts:
+5. Run the data processing scripts only if x and y embedding don't exist:
    ```
    python check_snippets.py
    python process_document.py
