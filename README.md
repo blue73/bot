@@ -49,10 +49,13 @@ bot/
    ```
    python -m spacy download de_core_news_sm
    ```
-
-5. Run the data processing scripts only if x and y embedding don't exist:
+5. Run the data processing scripts only if text_snippets.json doesn't exist:
    ```
    python check_snippets.py
+   ```
+
+6. Run the data processing scripts only if embeddings.npy and faiss_index.bin don't exist:
+   ```
    python process_document.py
    ```
 
