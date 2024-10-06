@@ -2,3 +2,6 @@
 2024-10-07 00:38:58,188 - INFO - Size of FAISS index: 14001
 2024-10-07 00:41:41,738 - INFO - Number of entries in text_snippets: 10
 2024-10-07 00:41:41,738 - INFO - Size of FAISS index: 14001
+2024-10-07 01:00:32,457 - INFO - Processing question: hello!
+2024-10-07 01:00:32,457 - INFO - Conversation history: []
+2024-10-07 01:00:32,533 - INFO - Context embedding shape: (1, 768)
