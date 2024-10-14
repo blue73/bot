@@ -9,6 +9,8 @@ This project is a backend application that utilizes natural language processing 
 - Efficient similarity search using FAISS
 - FastAPI-based REST API for querying similar text snippets
 
+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
+
 ## Requirements
 - Python 3.12.6
 - Virtual environment (venv)
